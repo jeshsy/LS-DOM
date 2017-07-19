@@ -1,0 +1,31 @@
+.div1 {
+  background-color: #428fbb;
+} 
+
+.image1 {
+  background: url(img/background1.jpg);
+  background-repeat: no-repeat;
+  height: 100%;
+  opacity: 0.3;
+/* background: rgba(92, 156, 192, 0.4) */
+  padding-bottom: 4444px;
+  padding-top: 100px;
+}
+
+.background {
+  background-color: #428fbb;
+}
+
+.headertxt {
+  color: #ffffff;
+  font-size: 80px;
+  font-family: 'Lora','Helvetica','Arial',sans-serif;
+  text-align: center;
+}
+
+.descriptiontxt {
+  color: #ffffff;
+  font-size: 40px;
+  font-family: 'Lora','Helvetica','Arial',sans-serif;
+  text-align: center;
+}
