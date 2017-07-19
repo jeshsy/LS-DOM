@@ -8,7 +8,7 @@
   height: 100%;
   opacity: 0.3;
 /* background: rgba(92, 156, 192, 0.4) */
-  padding-bottom: 4444px;
+  padding-bottom: 500px;
   padding-top: 100px;
 }
 
@@ -28,4 +28,30 @@
   font-size: 40px;
   font-family: 'Lora','Helvetica','Arial',sans-serif;
   text-align: center;
+}
+
+.left {
+  float: left;
+  margin-left: 20%;
+  margin-right: 5%;
+  width: 25%;
+  font-size: 20px;
+}
+
+.right {
+  float: left;
+  width: 25%;
+  font-size: 20px;
+}
+
+.ht2 {
+  clear: left;
+  margin-top: 150px;
+  margin-bottom: 20px;
+  font-size: 40px;
+  text-align: center;
+}
+
+.paragraph {
+  clear: left;
 }
